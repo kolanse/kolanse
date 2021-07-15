@@ -10,9 +10,28 @@ I love writing and i you can view some of my articles in [Medium](https://esambo
 
 After a long hard day of coding i usually relax by watching anime and reading tech blogs
 
+## My Skill Set 🔭
+- Android
+- JavaScript
+- Kotlin
+- React
+- Java
+- Jetpack Architecture
+- ReactNative
+- Test Driven Development
+- MVVM
+- Agile Methodologies
+- GIT
+
+## Socials 📫
+- [Website](https://dev.to/kolanse)
+- [LinkedIn](https://linkedin.com/in/ochubasamuel/)
+- [Twitter](https://twitter.com/rake_code)
+- [Email](mailto:esambooks@gmail.com)
+
 Thanks for checking out my profile.
 
-You can check me out on [Twitter](https://twitter.com/rake_code) too. (Share your cat pictures with me 😺😺😺)
+ (Share your cat pictures with me 😺😺😺)
 
 <p align="left"> 
   <b>Visitor count</b><br>
