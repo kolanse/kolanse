@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋🏾👋🏽👋🏽
 
-<!--
-**kolanse/kolanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Engineer at [Decagon](https://decagon.institute/)
 
-Here are some ideas to get you started:
+My favourite thing to talk about is tech startups and how tech helps solves problems around us.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently taking a deep dive into custom views in android and would very much love to talk about it
+
+I love writing and i you can view some of my articles in [Medium](https://esambooks.medium.com/)which is a little bit of everything and my tech articles in [dev.to](https://dev.to/kolanse)
+
+After a long hard day of coding i usually relax by watching anime and reading tech blogs
+
+Thanks for checking out my profile.
+
+You can check me out on [Twitter](https://twitter.com/rake_code) too. (Share your cat pictures with me 😺😺😺)
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/kolanse/count.svg" />
+</p>
