@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/rake_codes"><img src="https://api.daily.dev/devcards/23030d2f20604abba2f5c9c5514cfbe5.png?r=aah" width="400" alt="edusam's Dev Card"/></a>
 
-I'm an Android Engineer at [ORDA](https://orda.africa/)
+I'm an Android Engineer 
 
 My favourite thing to talk about is tech startups and how tech helps solves problems around us.
 
